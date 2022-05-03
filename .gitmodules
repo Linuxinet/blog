@@ -1,4 +1,0 @@
-[submodule "0xlinuxinetBlog/public"]
-	path = 0xlinuxinetBlog/public
-	url = git@github.com:Linuxinet/0xlinuxinetBlog.git
-	branch = main
