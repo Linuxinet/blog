@@ -7,7 +7,8 @@ copyright = "© Vinay Kumar"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+googleAnalytics = "G-9Y1ZNHR0SB"
+ 
 paginate=4 # articles per page
 
 [params]
